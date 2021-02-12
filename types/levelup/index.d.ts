@@ -145,5 +145,5 @@ export interface LevelUpChain<K = any, V = any> {
 
 export const errors: /*typeof levelerrors*/ any; // ? level-errors is not in DT
 
-declare const LevelUp: LevelUpConstructor;
-export default LevelUp;
+declare const LevelUP: LevelUpConstructor;
+export default LevelUP;
